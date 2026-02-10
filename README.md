@@ -7,3 +7,7 @@ In this repo i have included freecodecamp - Responsive Web Degin Certification's
 ## Final Exams Table
 
 <img width="229" height="219" alt="image" src="https://github.com/user-attachments/assets/7042f865-d862-4c7f-9106-dbe7fffccd23" />
+
+## Book Catalog
+
+<img width="953" height="249" alt="image" src="https://github.com/user-attachments/assets/4860d8f7-da64-4d37-b0b0-eaba66a02b7e" />
